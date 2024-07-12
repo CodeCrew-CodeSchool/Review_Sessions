@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj": {}
+    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/live_coding.csproj": {}
   },
   "projects": {
-    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj": {
+    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/live_coding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
-        "projectName": "starter_code",
-        "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
+        "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/live_coding.csproj",
+        "projectName": "live_coding",
+        "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/live_coding.csproj",
         "packagesPath": "/Users/connerthompson/.nuget/packages/",
-        "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/obj/",
+        "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/connerthompson/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/wwwroot/character.json",
+      "PackagePath": "staticwebassets/character.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.finished_code.props",
+      "PackagePath": "build\\finished_code.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.finished_code.props",
+      "PackagePath": "buildMultiTargeting\\finished_code.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.finished_code.props",
+      "PackagePath": "buildTransitive\\finished_code.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.finished_code.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

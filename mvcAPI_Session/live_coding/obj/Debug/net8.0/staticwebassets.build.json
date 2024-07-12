@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "35KuQFx9bhENf6ICwKGBNdZrj0+e/Y3muaXwGp6Ncng=",
+  "Source": "live_coding",
+  "BasePath": "_content/live_coding",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "live_coding/wwwroot",
+      "Source": "live_coding",
+      "ContentRoot": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/wwwroot/",
+      "BasePath": "_content/live_coding",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/wwwroot/character.json",
+      "SourceId": "live_coding",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/wwwroot/",
+      "BasePath": "_content/live_coding",
+      "RelativePath": "character.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/character.json"
+    }
+  ]
+}

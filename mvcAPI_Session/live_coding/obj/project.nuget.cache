@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6O0oa/O3kU=",
+  "dgSpecHash": "Dbw+LCmMcAY=",
   "success": true,
-  "projectFilePath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
+  "projectFilePath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/live_coding/live_coding.csproj",
   "expectedPackageFiles": [
     "/Users/connerthompson/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

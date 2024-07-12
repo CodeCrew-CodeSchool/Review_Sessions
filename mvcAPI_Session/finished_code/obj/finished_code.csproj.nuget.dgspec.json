@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj": {}
+    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/finished_code.csproj": {}
   },
   "projects": {
-    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj": {
+    "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/finished_code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
-        "projectName": "starter_code",
-        "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
+        "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/finished_code.csproj",
+        "projectName": "finished_code",
+        "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/finished_code.csproj",
         "packagesPath": "/Users/connerthompson/.nuget/packages/",
-        "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/obj/",
+        "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/connerthompson/.nuget/NuGet/NuGet.Config"

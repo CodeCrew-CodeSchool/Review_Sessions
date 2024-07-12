@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
-      "projectName": "starter_code",
-      "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/starter_code.csproj",
+      "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/new_app/new_app.csproj",
+      "projectName": "new_app",
+      "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/new_app/new_app.csproj",
       "packagesPath": "/Users/connerthompson/.nuget/packages/",
-      "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/starter_code/obj/",
+      "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/new_app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/connerthompson/.nuget/NuGet/NuGet.Config"

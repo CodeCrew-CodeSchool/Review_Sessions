@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Ebx3SML5fe0eM4hsVv7pYxAJyraHfQFn30cs7/41RTA=",
+  "Source": "finished_code",
+  "BasePath": "_content/finished_code",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "finished_code/wwwroot",
+      "Source": "finished_code",
+      "ContentRoot": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/wwwroot/",
+      "BasePath": "_content/finished_code",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/wwwroot/character.json",
+      "SourceId": "finished_code",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/connerthompson/Documents/Coding Central/GitHub/Review_Sessions/mvcAPI_Session/finished_code/wwwroot/",
+      "BasePath": "_content/finished_code",
+      "RelativePath": "character.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/character.json"
+    }
+  ]
+}
