@@ -1,0 +1,63 @@
+[
+    {
+      "Id": 1,
+      "Name": "Mario",
+      "Ability": "Super Jump",
+      "Series": "Super Mario"
+    },
+    {
+      "Id": 2,
+      "Name": "Link",
+      "Ability": "Master Sword",
+      "Series": "The Legend of Zelda"
+    },
+    {
+      "Id": 3,
+      "Name": "Samus Aran",
+      "Ability": "Power Suit",
+      "Series": "Metroid"
+    },
+    {
+      "Id": 4,
+      "Name": "Pikachu",
+      "Ability": "Electric Shock",
+      "Series": "Pokemon"
+    },
+    {
+      "Id": 5,
+      "Name": "Sonic",
+      "Ability": "Super Speed",
+      "Series": "Sonic the Hedgehog"
+    },
+    {
+      "Id": 6,
+      "Name": "Mega Man",
+      "Ability": "Mega Buster",
+      "Series": "Mega Man"
+    },
+    {
+      "Id": 7,
+      "Name": "Donkey Kong",
+      "Ability": "Super Strength",
+      "Series": "Donkey Kong"
+    },
+    {
+      "Id": 8,
+      "Name": "Kirby",
+      "Ability": "Inhale",
+      "Series": "Kirby"
+    },
+    {
+      "Id": 9,
+      "Name": "Fox McCloud",
+      "Ability": "Pilot Skills",
+      "Series": "Star Fox"
+    },
+    {
+      "Id": 10,
+      "Name": "Luigi",
+      "Ability": "High Jump",
+      "Series": "Super Mario"
+    }
+  ]
+  

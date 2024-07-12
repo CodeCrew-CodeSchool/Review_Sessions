@@ -1,0 +1,6 @@
+@live_coding_HostAddress = http://localhost:5212
+
+GET {{live_coding_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
