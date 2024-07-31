@@ -1,3 +1,11 @@
+# SQL Review
+
+Here's the slideshow that we used for the review.
+
+[Slideshow](https://docs.google.com/presentation/d/1XxYzEvK2bBkPRDXWWk8YANneuQIeznls6eZSWVwJ5Kw/edit?usp=sharing)
+
+## Code Guide Below
+
 dotnet new webapi -n SqlApiDemo
 cd SqlApiDemo
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
